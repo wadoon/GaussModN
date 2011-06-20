@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='gaussmodn'>
+	<inherits name='com.google.gwt.user.User' />
+	<!-- <inherits name='com.google.gwt.user.theme.clean.Clean' /> -->
+	<!--  <inherits name='com.google.gwt.user.theme.chrome.Chrome' />-->
+	<inherits name='com.google.gwt.user.theme.dark.Dark'/> 
+
+	<entry-point class='weigla.gauss.client.GaussModN' />
+	<source path='client' />
+</module>
